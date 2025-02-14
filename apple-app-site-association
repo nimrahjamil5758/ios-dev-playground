@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4N6WVD4QGQ.com.nayatel.mynayatel",
+        "paths": ["/*"]
+      }
+    ]
+  }
+}
